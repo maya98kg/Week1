@@ -1,6 +1,3 @@
-from tkinter import N
-
-
 class Solution(object):
     def singleNumber(self, nums):
         n=nums[0]
